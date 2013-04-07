@@ -1,0 +1,1 @@
+Allows to define multiple commands which are executed altogether then.
